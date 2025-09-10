@@ -9,4 +9,4 @@ xcursor-simp1e-catpuccin-mocha
 veikk-tablet-bin
 hydra-launcher-bin
 NetworkManager
-
+linuxtoys-bin
